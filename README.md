@@ -9,7 +9,7 @@ Bu repo ile [Kodluyoruz/Patikalarında](https://www.kodluyoruz.org) yazılım yo
 
 Projeyi clonelayacaksın. Proje linki: 
 ```bash
-şimdilik bu yazı
+https://github.com/OMaGe-Muhterem/Kodluyoruz-PAT-KA.git
 ```
 
 ## Projeyi bilgisayarına indirince...

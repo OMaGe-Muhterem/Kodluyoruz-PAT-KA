@@ -1,2 +1,2 @@
-# Kodluyoruz-PAT-KA
+# Kodluyoruz-PATIKA
 Yazılım yolculuğumun güzel bir aşaması: 'PATİKA'da Kodluyoruz.'
